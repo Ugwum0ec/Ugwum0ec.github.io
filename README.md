@@ -1,4 +1,4 @@
-# Ugwum0ec.github.io
+# Software Engineer
 
 I am a 200-Level Software Engineering Student Babcock University, a passionate and dedicated second-year Software Engineering student at Babcock University with foundational knowledge in programming languages such as C, Python, HTML, CSS, Java, and JavaScript. Currently building practical skills in software development and eager to contribute to real-world projects. Seeking internships, part-time opportunities, or collaborative projects to further enhance my skills.
 
