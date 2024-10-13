@@ -1,6 +1,6 @@
 # Software Engineer
 
-I am a 200-Level Software Engineering Student Babcock University, a passionate and dedicated second-year Software Engineering student at Babcock University with foundational knowledge in programming languages such as C, Python, HTML, CSS, Java, and JavaScript. Currently building practical skills in software development and eager to contribute to real-world projects. Seeking internships, part-time opportunities, or collaborative projects to further enhance my skills.
+I am a passionate and dedicated second-year (200 level) Software Engineering student at Babcock University with foundational knowledge in programming languages such as C, Python, HTML, CSS, Java, and JavaScript. Currently building practical skills in software development and eager to contribute to real-world projects. Seeking internships, part-time opportunities, or collaborative projects to further enhance my skills.
 
 [<a href="mailto:ebereonwucharles@gmail.com">Email</a>] | [<a href = "https://www.linkedin.com/in/charles-ebereonwu-2970b9307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedln</a>]
 
