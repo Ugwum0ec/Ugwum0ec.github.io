@@ -4,7 +4,7 @@ I am a 200-Level Software Engineering Student Babcock University, a passionate a
 
 [<a href="mailto:ebereonwucharles@gmail.com">Email</a>] | [<a href = "https://www.linkedin.com/in/charles-ebereonwu-2970b9307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedln</a>]
 
-Skills
+# Skills
 
 Programming Languages: C, Python, HTML, CSS, Java, JavaScript
 
@@ -16,7 +16,7 @@ Collaboration: Teamwork, Problem-solving, Adaptability
 
 ---
 
-Projects
+# Projects
 
 AI Chatbot with Speech-to-Text and Text-to-Speech
 
@@ -36,7 +36,7 @@ Tools used: JavaScript, HTML, CSS.
 
 ---
 
-Education
+# Education
 
 Babcock University
 Bachelor of Science in Software Engineering (Expected Graduation: [2027])
@@ -44,7 +44,7 @@ Bachelor of Science in Software Engineering (Expected Graduation: [2027])
 
 ---
 
-Hobbies & Interests
+# Hobbies & Interests
 
 Building AI-driven applications
 
